@@ -1,0 +1,4 @@
+First Name, Last Name, Spots available, Address
+john, smith, 3, 8 Daly St South Yarra VIC 3141 Australia
+johnny, doe, 2, 234 Elgar Rd Box Hill South VIC 3128 Australia
+jimmy, mark, 1, 12 Rose St Doncaster VIC 3108 Australia
